@@ -1,4 +1,9 @@
 # Population-Based Search Algorithms for Solving the Traveling Salesman Problem
+## Project Information
+- Development Period: November 2025 – December 2025
+- Course: Introduction to Metaheuristics  
+- Type: Group Project at the University Course
+
 ## Project Overview
 
 This project explores the application of population-based metaheuristic optimization algorithms to solve the Traveling Salesman Problem (TSP), a well-known NP-hard combinatorial optimization problem.
